@@ -1,4 +1,4 @@
-# A tool created in Python for managing user opinions. The bot automatically analyzes and summarizes opinions stored in the database. The admin has the option to approve or reject reviews via Discord.
+## A tool created in Python for managing user opinions. The bot automatically analyzes and summarizes opinions stored in the database. The admin has the option to approve or reject reviews via Discord.
 
 ## Functions:
 - Analyzing and summarizing opinions from the database.
